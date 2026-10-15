@@ -1,4 +1,4 @@
-## xml-crypto
+## xml-crypto-nx
 
 ![Build](https://github.com/yaronn/xml-crypto/actions/workflows/ci.yml/badge.svg)
 
